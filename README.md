@@ -9,7 +9,7 @@
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam-hossain&theme=algolia" alt="ishmam github stat"  /></p>
 	
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ishmamm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishmam-hossain&show_icons=true&count_private=true&theme=dracula" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ishmamm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishmam-hossain&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishmam-hossain&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
