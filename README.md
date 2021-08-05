@@ -8,10 +8,6 @@
   <br/>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishmam-hossain&theme=algolia" alt="ishmam github stat"  /></p>
 	
-  <p align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishmam-hossain&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Ishmam's Github Stats">
-  </p>
-  
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ishmamm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishmam-hossain&show_icons=true&count_private=true&theme=dracula" height="192px"/></a>
 <br/>
@@ -26,7 +22,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Ishmam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishmam-hossain&custom_title=Ishmam's%20%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ishmam-hossain"><img alt="Ishmam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishmam-hossain&custom_title=Ishmam's%20%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
