@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="20%" height="auto" style="border-radius: 30%" src="static/avatar.jpg" height="175px"/></a>
+<a href="#"><img width="20%" height="auto" style="border-radius: 30%" src="static/avatar.png" height="175px"/></a>
 </p>
 
 
