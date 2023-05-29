@@ -37,6 +37,7 @@
   <br/>
    <a href="https://github.com/ishmam-hossain"><img alt="Ishmam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishmam-hossain&custom_title=Ishmam's%20%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+![](https://komarev.com/ghpvc/?username=ishmam-hossain)
 
 </details>
 
