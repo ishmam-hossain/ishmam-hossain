@@ -11,7 +11,17 @@
   <a href="https://github.com/ishmam-hossain"><img alt="followers" title="Find me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:ishmam.dev@gmail.com"><img alt="followers" title="Find me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
+<p align="center">
+   <a href="https://stackoverflow.com/users/9907570/ishmam">
+   <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/11755018?color=orange&label=reputation&logo=stackoverflow"/>
+   </a>
+   <a href="https://github.com/ishmam-hossain?tab=followers">
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishmam-hossain?color=green&logo=github"/>
+   </a>
+   <a href="https://github.com/mazhar004/">
+   <img src="https://komarev.com/ghpvc/?username=ishmam-hossain" alt="visitors" />
+   </a>
+</p>
 
 ## 📊 Github Stats (Expand to View) 
 
@@ -31,15 +41,4 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/ishmam-hossain"><img alt="Ishmam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishmam-hossain&custom_title=Ishmam's%20%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-![](https://komarev.com/ghpvc/?username=ishmam-hossain)
-
-</details>
-
-<br/>
 
