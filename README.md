@@ -18,7 +18,7 @@
    <a href="https://github.com/ishmam-hossain?tab=followers">
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishmam-hossain?color=green&logo=github"/>
    </a>
-   <a href="https://github.com/mazhar004/">
+   <a href="https://github.com/ishmam-hossain/">
    <img src="https://komarev.com/ghpvc/?username=ishmam-hossain" alt="visitors" />
    </a>
 </p>
