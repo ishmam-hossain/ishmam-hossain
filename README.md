@@ -12,9 +12,6 @@
   <a href="mailto:ishmam.dev@gmail.com"><img alt="followers" title="Find me on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
-   <a href="https://stackoverflow.com/users/9907570/ishmam">
-   <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/11755018?color=orange&label=reputation&logo=stackoverflow"/>
-   </a>
    <a href="https://github.com/ishmam-hossain?tab=followers">
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishmam-hossain?color=green&logo=github"/>
    </a>
